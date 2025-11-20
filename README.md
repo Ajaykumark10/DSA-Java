@@ -16,21 +16,6 @@ I am learning core concepts step-by-step and building a strong foundation for co
 - Even Number of Digits  
 - Maximum Wealth Problem (LeetCode)
 
----
-
-## Project Structure
-
-src/
-├── SearchinElement.java
-├── SearchMinEle.java
-├── SearchMaxEle.java
-├── SearchIn2DArray.java
-├── MaxElementIn2DArray.java
-├── EvenNumberofDigits.java
-└── MaxWealth.java
-
-
----
 
 ## Goal
 Improve my problem-solving skills by practicing DSA daily and building consistency.
